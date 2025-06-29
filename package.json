@@ -1,9 +1,10 @@
 {
     "name": "lockedin",
-    "displayName": "LockedIn",
+    "displayName": "LockedIn Theme",
     "description": "A VS Code theme with eye-pleasing color palette built for deep focus and minimal distractions.",
-    "version": "0.0.1",
-    "author": "Jig <nandajigyansu@gmail.com>",
+    "version": "1.0.0",
+    "author": "jigyansunanda",
+    "publisher": "jigyansunanda",
     "license": "MIT",
     "engines": {
         "vscode": "^1.101.0"
@@ -11,6 +12,7 @@
     "categories": [
         "Themes"
     ],
+    "icon": "/images/icon.png",
     "repository": {
         "type": "git",
         "url": "https://github.com/jigyansunanda/LockedIn"
